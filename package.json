@@ -2,7 +2,9 @@
   "name": "pics",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://dragostinj.github.io/pics",
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.1"
